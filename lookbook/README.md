@@ -1,2 +1,1 @@
-# php-login-minimal
-This a very basic php based login template!
+a basic login form with signup 
